@@ -26,7 +26,7 @@ The objective is to identify the main factors influencing customer satisfaction 
 
 ## Tools
 - Python (pandas, matplotlib, seaborn)  
-- Jupyter / Google Colab
+- Google Colab
 
 ## How to use
 - Open the notebook: `hotel_reviews_analysis.ipynb`
