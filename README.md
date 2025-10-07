@@ -53,4 +53,4 @@ df.head()
 
 ## 👩‍💻 Author & Contact
 Marion Ortega
-📎 LinkedIn Profile
+🔗 [LinkedIn](https://www.linkedin.com/in/marion-ortega-55a233199/)
