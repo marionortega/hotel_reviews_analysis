@@ -47,7 +47,8 @@ import pandas as pd
 # Load sample dataset directly from GitHub
 url = "https://raw.githubusercontent.com/marionortega/hotel_reviews_analysis/main/data/hotel_reviews_sample.csv"
 df = pd.read_csv(url)
-df.head()
+df.head() 
+```
 
 👩‍💻 **Author:** Marion Ortega  
 🔗 [LinkedIn](https://www.linkedin.com/in/marion-ortega-55a233199/)
