@@ -38,6 +38,6 @@ The objective is to identify the main factors influencing customer satisfaction 
   ```python
   import pandas as pd
   
-  url = "https://raw.githubusercontent.com/marionortega/hotel_reviews_analysis/refs/heads/main/data/hotel_reviews_sample.csv"
+  url = "https://colab.research.google.com/github/marionortega/hotel_reviews_analysis/blob/main/hotel_reviews_analysis.ipynb"
   df = pd.read_csv(url)
   df.head()
