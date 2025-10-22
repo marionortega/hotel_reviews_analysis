@@ -50,6 +50,9 @@ df = pd.read_csv(url)
 df.head()
 ```
 
+## 📊 Presentation
+You can view the full presentation here:  
+[➡️ Booking Satisfaction Analysis (PDF)](./booking_satisfaction_presentation.pdf)
 
 ## 👩‍💻 Author & Contact
 Marion Ortega
